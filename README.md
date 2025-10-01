@@ -1,5 +1,3 @@
-# OCEL
-# Experiment 1 
 # Object-Centric Process Mining with OCEL 1.0
 
 ## Dataset
